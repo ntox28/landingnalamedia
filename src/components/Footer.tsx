@@ -79,7 +79,7 @@ export default function Footer() {
             </div>
             
             <p className="text-xs sm:text-sm text-slate-400 leading-relaxed max-w-sm">
-              You Imagine it, We Make it Fast. Kami melayani cetak banner, stiker label kemasan, neon box, acrylic, sablon, dan berbagai macam perlengkapan promosi dengan pengerjaan cepat dan kualitas warna tajam CMYK premium.
+              You Imagine it, We Make it Fast. Pusat <strong>Digital Printing Karanganyar</strong> &amp; percetakan terdekat. Melayani cetak banner kilat, stiker label kemasan, spanduk, neon box, acrylic, sablon kaos DTF, dan merchandise promosi di Karanganyar, Solo, Surakarta, Sukoharjo, Boyolali &amp; Wonogiri.
             </p>
 
             {/* Social Media Link Grid */}

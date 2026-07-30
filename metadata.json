@@ -1,6 +1,6 @@
 {
   "name": "Nala Media",
-  "description": "Premium landing page untuk Nala Media Digital Printing, dioptimalkan untuk mengubah pengunjung media sosial menjadi pelanggan WhatsApp secara cepat dan profesional.",
+  "description": "Halaman Utama Nala Media Digital Printing percetakan karanganyar",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
